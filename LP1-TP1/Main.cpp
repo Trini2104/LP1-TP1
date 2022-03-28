@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 
-
+	cout << "probando si anda" << endl;
 
 
 }
