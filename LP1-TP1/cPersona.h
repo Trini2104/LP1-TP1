@@ -15,7 +15,7 @@ public:
 	cAnimal(string _color, string _especie, float _peso, float _altura, bool _sano=true);
 	~cAnimal(); 
 	string getcolor() {
-		return color;
+		return color;// hola se ve mi cambio?? soy camili
 	}
 	string getespecie() {
 		return especie;
