@@ -12,7 +12,7 @@ private:
 	float altura;
 	bool sano;
 public: 
-	cAnimal(string _color, string _especie, float _peso, float _altura, bool _sano = true);
+	cAnimal(string _color, string _especie, float _peso, float _altura, bool _sano=true);
 	~cAnimal(); 
 	string getcolor() {
 		return color;
