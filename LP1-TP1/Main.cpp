@@ -7,6 +7,7 @@ int main()
 {
 
 	cout << "probando si anda" << endl;
+	cout << "hola trini mira aca" << endl;
 
 
 }
